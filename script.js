@@ -33,5 +33,5 @@ function stackOverflow() {
 }
 
 function stackOverflow2() {
-    return stackOverflow1();
+    return stackOverflow();
 }
